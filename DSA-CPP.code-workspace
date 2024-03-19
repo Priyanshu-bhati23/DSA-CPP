@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "DSA-CPP",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}

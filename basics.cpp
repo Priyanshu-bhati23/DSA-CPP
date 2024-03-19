@@ -13,7 +13,7 @@ cout<<num<<endl;
 cout<<dub<<endl;
 char ch='A';
 cout<<ch<<endl;
-//to find size on bits of  a datatype
+//to find size on bits of  a datatype2
 int k=sizeof(num);
 cout<<num<<endl;
 int l=sizeof(n);
